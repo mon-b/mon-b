@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+I'm Mon :) I'm a second-year Computer Science student at UC Chile.
+
+-> About me
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Under_construction_graphic.gif">
+</p>
+
+![](https://komarev.com/ghpvc/?username=mon-b&color=blueviolet)
+
+
+
 <!--
 **mon-b/mon-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
