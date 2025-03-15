@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Mon :) I'm a second-year Computer Science student at UC Chile.
+I'm Mon :) I'm a third-year Computer Science student at UC Chile.
 
 -> About me
 <p align="center">
