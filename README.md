@@ -4,7 +4,7 @@
   <img src="https://github.com/mon-b/mon-b/blob/main/meowth.gif?raw=true" width="300">
   <br>
   <br>
-  I'm a third-year Computer Science student @ UC Chile. I've tried many different things so far: research, data science, process mining, ai-stuff, and software engineering. I'm still trying to figure out what I like the most. 
+  I'm a fourth-year Computer Science student @ UC Chile. I've tried many different things so far: research, data science, process mining, ai-stuff, and software engineering. I'm still trying to figure out what I like the most. 
   <br>
   <br>
   I like to game, I'm learning crochet and I listen to way too much music (~130k minutes a year for the past 4 years). You'll always find me experimenting with my own listening data, I'm a case study at this point.
